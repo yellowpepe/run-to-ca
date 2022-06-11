@@ -58,6 +58,6 @@
 - 如果你在加拿大读的项目大于8个月但是不满两年，你只能获得和你项目时长一样时效的工签，比如你读的项目时长9个月，即你申请的工签也只有9个月。
 - 如果你在加拿大读的项目大于等于两年，你能获得3年时效的工签（强烈推荐！）。
 
-原文可戳[How long is a post-graduation work permit valid?](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html#pgwp_validity)。
+原文可戳[Work in Canada after you graduate: About the post-graduation work permit](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html#pgwp_validity)。
 
 另外，零基础去college读cs项目会有入门困难的问题么？答案是会有！想想看你零基础去国内培训班接受中文教学都会有入门困难的问题，答案是不是不言而喻了。不过，因为college的cs/engineering时长一般两年或以上，所以时间还是比较充足。在这个时间段里，你要学好英文（达到正常职场英文交流的水平就好，公司对技术人员的英文水平要求不会很高，大概雅思7分或以上），练好cs基础，准备面试（国外面试比国内简单的多的多）。平常高效利用时间，在这两年里多点吃苦的觉悟，面试之前尽量多点mock interview，找到心仪的技术工作成功率是还非常高的。
